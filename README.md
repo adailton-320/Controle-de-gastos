@@ -1,2 +1,2 @@
 # Controle-de-gastos
-Projeto de CRUD de usuário e gastos com conexão ao banco de dados.
+Projeto em java  com CRUD de usuario e gastos com conexão no banco de dados.
